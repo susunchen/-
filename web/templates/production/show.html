@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>1</title>
+    <style type="text/css">
+        th {text-align: center;font-size: 110px;color: blue;}
+        td {text-align: center;font-size: 110px;color: blue;}
+    </style>
+</head>
+<body>
+<table class="table table-bordered m-t" align="center">
+            <thead>
+            <tr>
+                <th>美食名</th>
+            </tr>
+            </thead>
+
+            <tbody>
+             {% if list_1 %}
+                {% for item in list_1 %}
+            <tr>
+                <td>{{ item.name }}</td>
+            </tr>
+             {% endfor %}
+            {% else %}
+                <tr><td colspan="1">暂无数据~~</td></tr>
+            {% endif %}
+            </tbody>
+        </table>
+</body>
+</html>

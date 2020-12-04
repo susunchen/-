@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d564f57a-9f96-4262-9481-cacdf2b8445c" name="Default" comment="lalala">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/application.py" beforeDir="false" afterPath="$PROJECT_DIR$/application.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/libs/res.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/libs/res.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/base_setting.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/base_setting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/local_setting.py" beforeDir="false" afterPath="$PROJECT_DIR$/config/local_setting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/controllers/food/Food.py" beforeDir="false" afterPath="$PROJECT_DIR$/web/controllers/food/Food.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/static/js/user/login.js" beforeDir="false" afterPath="$PROJECT_DIR$/web/static/js/user/login.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/order$tri.coverage" NAME="tri Coverage Results" MODIFIED="1555146622746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/order$Order.coverage" NAME="Order Coverage Results" MODIFIED="1555147853915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web/controllers/api" />
+    <SUITE FILE_PATH="coverage/3_9bak$manager.coverage" NAME="manager Coverage Results" MODIFIED="1552131542048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/order$manager.coverage" NAME="manager Coverage Results" MODIFIED="1555173132471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="5cb0bb1b-f9f9-4a83-a332-8e6259e06870" />
+  <component name="ProjectId" id="1kpN5J8WdOrsL1DIRCQC5RP48QV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="qrcode_id&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PythonSdkConfigurable" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="run.code.analysis.last.selected.profile" value="aProject Default" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\订餐小程序\coding-265\Flask 基础框架\v1\order\web\controllers\upload" />
+      <recent name="D:\订餐小程序\coding-265\Flask 基础框架\v1\order\web\controllers\stat" />
+      <recent name="D:\订餐小程序\coding-265\Flask 基础框架\v1\order\web\static\js\cat.js" />
+      <recent name="D:\订餐小程序\coding-265\Flask 基础框架\v1\order\common\libs" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\订餐小程序\coding-265\Flask 基础框架\v1\order\web\controllers\api" />
+      <recent name="D:\订餐小程序\coding-265\Flask 基础框架\v1\order\common\libs" />
+      <recent name="D:\订餐小程序\coding-265\Flask 基础框架\v1\order\common\models" />
+      <recent name="D:\订餐小程序\coding-265\Flask 基础框架\v1\order\web\static\js\cabint" />
+      <recent name="D:\订餐小程序\coding-265\Flask 基础框架\v1\order\web\templates\common" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.manager">
+    <configuration name="Order" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="order" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/web/controllers/api" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/web/controllers/api/Order.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="manager" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="order" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="ops_config" value="local" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/manager.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tri" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="order" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tri.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.manager" />
+      <item itemvalue="Python.tri" />
+      <item itemvalue="Python.Order" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.manager" />
+        <item itemvalue="Python.Order" />
+        <item itemvalue="Python.tri" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration" SSL_PROTOCOLS="sslv3">
+    <configuration />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d564f57a-9f96-4262-9481-cacdf2b8445c" name="Default" comment="" />
+      <created>1528044544203</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528044544203</updated>
+      <workItem from="1549010376778" duration="665000" />
+      <workItem from="1549013278604" duration="5179000" />
+      <workItem from="1549019649292" duration="759000" />
+      <workItem from="1549062277892" duration="22707000" />
+      <workItem from="1549108135138" duration="251000" />
+      <workItem from="1549149929140" duration="21612000" />
+      <workItem from="1549178916007" duration="4764000" />
+      <workItem from="1549246555849" duration="25046000" />
+      <workItem from="1549324564239" duration="24338000" />
+      <workItem from="1549369006542" duration="5876000" />
+      <workItem from="1549412264074" duration="10169000" />
+      <workItem from="1549496307769" duration="13866000" />
+      <workItem from="1549585637961" duration="18384000" />
+      <workItem from="1549675487706" duration="74000" />
+      <workItem from="1549684830001" duration="4204000" />
+      <workItem from="1549693974314" duration="809000" />
+      <workItem from="1549707302439" duration="3986000" />
+      <workItem from="1549769116340" duration="651000" />
+      <workItem from="1549780145237" duration="18387000" />
+      <workItem from="1549845363573" duration="1831000" />
+      <workItem from="1549849022131" duration="8995000" />
+      <workItem from="1550279993016" duration="238000" />
+      <workItem from="1550999177079" duration="1314000" />
+      <workItem from="1551002290705" duration="9475000" />
+      <workItem from="1551065008175" duration="7470000" />
+      <workItem from="1551080407858" duration="10412000" />
+      <workItem from="1551093654608" duration="17000" />
+      <workItem from="1551093731162" duration="7335000" />
+      <workItem from="1551147508069" duration="700000" />
+      <workItem from="1551173205385" duration="5648000" />
+      <workItem from="1551230224113" duration="10705000" />
+      <workItem from="1551271310770" duration="674000" />
+      <workItem from="1551329050221" duration="20939000" />
+      <workItem from="1551404841503" duration="5929000" />
+      <workItem from="1551418322221" duration="10182000" />
+      <workItem from="1551444523567" duration="11323000" />
+      <workItem from="1551500691918" duration="4001000" />
+      <workItem from="1551511076034" duration="4929000" />
+      <workItem from="1551522500153" duration="2244000" />
+      <workItem from="1551531982209" duration="514000" />
+      <workItem from="1551534321117" duration="1105000" />
+      <workItem from="1551536966932" duration="14824000" />
+      <workItem from="1551686532278" duration="11788000" />
+      <workItem from="1551714710171" duration="1507000" />
+      <workItem from="1551764649445" duration="5735000" />
+      <workItem from="1551840148795" duration="4995000" />
+      <workItem from="1551854157643" duration="2135000" />
+      <workItem from="1551972493235" duration="139000" />
+      <workItem from="1552026457908" duration="931000" />
+      <workItem from="1552099011229" duration="16909000" />
+      <workItem from="1606393389463" duration="7841000" />
+      <workItem from="1606406319218" duration="5153000" />
+      <workItem from="1607096390731" duration="1135000" />
+      <workItem from="1607097641484" duration="507000" />
+    </task>
+    <task id="LOCAL-00001" summary="lalala">
+      <created>1606397190198</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606397190198</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="lalala" />
+    <option name="LAST_COMMIT_MESSAGE" value="lalala" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="491" y="8" key="CommitChangelistDialog2" timestamp="1606397184739">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="491" y="8" key="CommitChangelistDialog2/0.0.1920.1040/-1440.182.1440.860@0.0.1920.1040" timestamp="1606397184739" />
+    <state width="1867" height="209" key="GridCell.Tab.0.bottom" timestamp="1606405967962">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="209" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1440.182.1440.860@0.0.1920.1040" timestamp="1606405967962" />
+    <state width="1867" height="209" key="GridCell.Tab.0.center" timestamp="1606405967962">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="209" key="GridCell.Tab.0.center/0.0.1920.1040/-1440.182.1440.860@0.0.1920.1040" timestamp="1606405967962" />
+    <state width="1867" height="209" key="GridCell.Tab.0.left" timestamp="1606405967961">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="209" key="GridCell.Tab.0.left/0.0.1920.1040/-1440.182.1440.860@0.0.1920.1040" timestamp="1606405967961" />
+    <state width="1867" height="209" key="GridCell.Tab.0.right" timestamp="1606405967962">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1867" height="209" key="GridCell.Tab.0.right/0.0.1920.1040/-1440.182.1440.860@0.0.1920.1040" timestamp="1606405967962" />
+    <state x="129" y="70" key="SettingsEditor" timestamp="1606395122417">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="129" y="70" key="SettingsEditor/0.0.1920.1040/-1440.182.1440.860@0.0.1920.1040" timestamp="1606395122417" />
+    <state x="589" y="32" width="742" height="975" key="find.popup" timestamp="1606408084971">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="589" y="32" width="742" height="975" key="find.popup/0.0.1920.1040/-1440.182.1440.860@0.0.1920.1040" timestamp="1606408084971" />
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup" timestamp="1606400601608">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="539" y="5" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1040/-1440.182.1440.860@0.0.1920.1040" timestamp="1606400601608" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/web/controllers/api/My.py</url>
+          <line>86</line>
+          <option name="timeStamp" value="600" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="food_ids[0]" language="Python" />
+        <watch expression="item.status_desc" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/order$manager.coverage" NAME="manager Coverage Results" MODIFIED="1606394428372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>food_ids[0]</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>g</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>resp['data']['list']</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
